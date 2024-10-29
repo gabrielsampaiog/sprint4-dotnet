@@ -85,7 +85,9 @@ namespace TAQUI.API.Extensions
         {
             services
             .AddHealthChecks()
-                .AddMongoDb(appConfiguration.ClienteMongoDb.Connection);
+                .AddMongoDb(appConfiguration.ClienteMongoDb.Connection)
+                .AddUrlGroup(new Uri("https://viacep.com.br/ws/08737-290/json/"), name: "VIAP CEP");
+
 
             return services;
         }
