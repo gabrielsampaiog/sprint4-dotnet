@@ -5,13 +5,15 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAQUI.API", "TAQUI.API.csproj", "{99D8C1BC-ED9A-4374-B841-2304B2F755B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAQUI.Model", "..\TAQUI.Model\TAQUI.Model.csproj", "{09D2C7F5-EA9C-46A6-90D6-94027AF49D51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAQUI.Model", "..\TAQUI.Model\TAQUI.Model.csproj", "{09D2C7F5-EA9C-46A6-90D6-94027AF49D51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAQUI.Database", "..\TAQUI.Database\TAQUI.Database.csproj", "{CDE7960B-20F0-43A9-A1E5-227100E21690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAQUI.Database", "..\TAQUI.Database\TAQUI.Database.csproj", "{CDE7960B-20F0-43A9-A1E5-227100E21690}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAQUI.Repository", "..\TAQUI.Repository\TAQUI.Repository.csproj", "{D16286EA-2E91-4ED6-B86F-E830FBBCB9C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAQUI.Repository", "..\TAQUI.Repository\TAQUI.Repository.csproj", "{D16286EA-2E91-4ED6-B86F-E830FBBCB9C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAQUI.Service", "..\TAQUI.Service\TAQUI.Service.csproj", "{E930557D-CF31-4A9B-B2C1-2E49E85E3304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TAQUI.Service", "..\TAQUI.Service\TAQUI.Service.csproj", "{E930557D-CF31-4A9B-B2C1-2E49E85E3304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAQUI.Test", "..\TAQUI.Test\TAQUI.Test.csproj", "{5FC4DD69-C593-47E6-AE97-6EC4A473C364}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E930557D-CF31-4A9B-B2C1-2E49E85E3304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E930557D-CF31-4A9B-B2C1-2E49E85E3304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E930557D-CF31-4A9B-B2C1-2E49E85E3304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC4DD69-C593-47E6-AE97-6EC4A473C364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC4DD69-C593-47E6-AE97-6EC4A473C364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC4DD69-C593-47E6-AE97-6EC4A473C364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC4DD69-C593-47E6-AE97-6EC4A473C364}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
