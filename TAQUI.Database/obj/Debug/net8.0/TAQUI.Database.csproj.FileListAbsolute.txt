@@ -1,0 +1,16 @@
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\bin\Debug\net8.0\TAQUI.Database.deps.json
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\bin\Debug\net8.0\TAQUI.Database.dll
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\bin\Debug\net8.0\TAQUI.Database.pdb
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\bin\Debug\net8.0\TAQUI.Model.dll
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\bin\Debug\net8.0\TAQUI.Model.pdb
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.csproj.AssemblyReference.cache
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.AssemblyInfoInputs.cache
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.AssemblyInfo.cs
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.csproj.CoreCompileInputs.cache
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.sourcelink.json
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Da.C2179163.Up2Date
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.dll
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\refint\TAQUI.Database.dll
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\TAQUI.Database.pdb
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Database\obj\Debug\net8.0\ref\TAQUI.Database.dll

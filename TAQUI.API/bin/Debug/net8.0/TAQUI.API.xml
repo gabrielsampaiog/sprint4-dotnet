@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TAQUI.API</name>
+    </assembly>
+    <members>
+        <member name="T:TAQUI.API.Controllers.ClientesController">
+            <summary>
+            Controlador responsável por gerenciar clientes.
+            </summary>
+        </member>
+        <member name="M:TAQUI.API.Controllers.ClientesController.#ctor(TAQUI.Repository.IRepository{TAQUI.Model.Cliente})">
+            <summary>
+            Controlador responsável por gerenciar clientes.
+            </summary>
+        </member>
+        <member name="M:TAQUI.API.Controllers.ClientesController.GetAll">
+            <summary>
+            Retorna a lista completa de clientes.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                GET /cliente
+            
+            Esse endpoint retorna uma lista de todos os clientes disponíveis no sistema.
+            </remarks>
+            <response code="200">Retorna a lista de clientes</response>
+            <response code="400">Bad Request</response>
+            <response code="500">Erro interno no servidor</response>
+        </member>
+        <member name="M:TAQUI.API.Controllers.ClientesController.Get(System.String)">
+            <summary>
+            Retorna um cliente com base no id fornecido.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                GET /cliente/id
+            
+            Esse endpoint retorna um cliente com base no id fornecido.
+            </remarks>
+            <response code="200">Retorna o cliente</response>
+            <response code="404">Nenhum cliente encontrado</response>
+            <response code="500">Erro interno no servidor</response>
+        </member>
+        <member name="M:TAQUI.API.Controllers.ClientesController.Post(TAQUI.Model.DTO.Request.ClienteRequest)">
+            <summary>
+            Cria um novo cliente.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                POST /cliente
+            
+            Esse endpoint salva os dados do cliente no banco de dados.
+            </remarks>
+            <response code="200">Cliente criado</response>
+            <response code="400">Bad Request</response>
+            <response code="500">Erro de servidor</response>
+        </member>
+        <member name="M:TAQUI.API.Controllers.ClientesController.Put(System.String,TAQUI.Model.DTO.Request.ClienteRequest)">
+            <summary>
+            Atualiza um cliente com base no id fornecido.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                PUT /cliente/{id}
+            
+            Esse endpoint atualiza o cliente com base no id fornecido.
+            </remarks>
+            <response code="200">Cliente atualizado</response>
+            <response code="404">Nenhum cliente encontrado</response>
+            <response code="500">Erro interno no servidor</response>
+        </member>
+        <member name="M:TAQUI.API.Controllers.ClientesController.Delete(System.String)">
+            <summary>
+            Deleta um cliente com base no id fornecido.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                DELETE/cliente/{id}
+            
+            Esse endpoint deleta o cliente com base no id fornecido.
+            </remarks>
+            <response code="200">Cliente deletado</response>
+            <response code="404">Nenhum cliente encontrado</response>
+            <response code="500">Erro interno no servidor</response>
+        </member>
+    </members>
+</doc>
