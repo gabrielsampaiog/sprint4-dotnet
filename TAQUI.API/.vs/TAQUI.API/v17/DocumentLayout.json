@@ -1,43 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\",
+  "WorkspaceRootPath": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|c:\\users\\labsfiap\\desktop\\new folder\\sprint4-dotnet\\taqui.api\\controllers\\produtorecommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|solutionrelative:controllers\\produtorecommendationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.api\\extensions\\healthcheckextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|solutionrelative:extensions\\healthcheckextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC4DD69-C593-47E6-AE97-6EC4A473C364}|..\\TAQUI.Test\\TAQUI.Test.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.test\\cepservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D2C7F5-EA9C-46A6-90D6-94027AF49D51}|..\\TAQUI.Model\\TAQUI.Model.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.model\\dto\\response\\addressresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E930557D-CF31-4A9B-B2C1-2E49E85E3304}|..\\TAQUI.Service\\TAQUI.Service.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.service\\cepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E930557D-CF31-4A9B-B2C1-2E49E85E3304}|..\\TAQUI.Service\\TAQUI.Service.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.service\\convertmapping\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D2C7F5-EA9C-46A6-90D6-94027AF49D51}|..\\TAQUI.Model\\TAQUI.Model.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.model\\dto\\request\\clienterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D2C7F5-EA9C-46A6-90D6-94027AF49D51}|..\\TAQUI.Model\\TAQUI.Model.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{09D2C7F5-EA9C-46A6-90D6-94027AF49D51}|..\\TAQUI.Model\\TAQUI.Model.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.model\\dto\\response\\clienteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|c:\\users\\phgianini\\desktop\\sprint\\sprint4-dotnet\\taqui.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|c:\\users\\labsfiap\\desktop\\new folder\\sprint4-dotnet\\taqui.api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E930557D-CF31-4A9B-B2C1-2E49E85E3304}|..\\TAQUI.Service\\TAQUI.Service.csproj|c:\\users\\labsfiap\\desktop\\new folder\\sprint4-dotnet\\taqui.service\\clienteviewservice\\iclienteviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|c:\\users\\labsfiap\\desktop\\new folder\\sprint4-dotnet\\taqui.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D8C1BC-ED9A-4374-B841-2304B2F755B7}|TAQUI.API.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D2C7F5-EA9C-46A6-90D6-94027AF49D51}|..\\TAQUI.Model\\TAQUI.Model.csproj|c:\\users\\labsfiap\\desktop\\new folder\\sprint4-dotnet\\taqui.model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,7 +28,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,153 +44,71 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Extensions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAwwFgAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:20:17.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HealthCheckExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Extensions\\HealthCheckExtensions.cs",
-              "RelativeDocumentMoniker": "Extensions\\HealthCheckExtensions.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Extensions\\HealthCheckExtensions.cs",
-              "RelativeToolTip": "Extensions\\HealthCheckExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "IClienteViewService.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Service\\ClienteViewService\\IClienteViewService.cs",
+              "RelativeDocumentMoniker": "..\\TAQUI.Service\\ClienteViewService\\IClienteViewService.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Service\\ClienteViewService\\IClienteViewService.cs",
+              "RelativeToolTip": "..\\TAQUI.Service\\ClienteViewService\\IClienteViewService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T21:20:01.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CEPServiceTests.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Test\\CEPServiceTests.cs",
-              "RelativeDocumentMoniker": "..\\TAQUI.Test\\CEPServiceTests.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Test\\CEPServiceTests.cs",
-              "RelativeToolTip": "..\\TAQUI.Test\\CEPServiceTests.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAowAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:28:33.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAgwM8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:51:06.228Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ClienteResponse.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\DTO\\Response\\ClienteResponse.cs",
-              "RelativeDocumentMoniker": "..\\TAQUI.Model\\DTO\\Response\\ClienteResponse.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\DTO\\Response\\ClienteResponse.cs",
-              "RelativeToolTip": "..\\TAQUI.Model\\DTO\\Response\\ClienteResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:47:01.216Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CEPService.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Service\\CEPService.cs",
-              "RelativeDocumentMoniker": "..\\TAQUI.Service\\CEPService.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Service\\CEPService.cs",
-              "RelativeToolTip": "..\\TAQUI.Service\\CEPService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:23:07.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\Cliente.cs",
-              "RelativeDocumentMoniker": "..\\TAQUI.Model\\Cliente.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\Cliente.cs",
-              "RelativeToolTip": "..\\TAQUI.Model\\Cliente.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAIBJwC0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:21:29.5Z",
+              "WhenOpened": "2024-10-30T12:31:12.366Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.API\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ProdutoRecommendationController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.API\\Controllers\\ProdutoRecommendationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutoRecommendationController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.API\\Controllers\\ProdutoRecommendationController.cs",
+              "RelativeToolTip": "Controllers\\ProdutoRecommendationController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:37:07.685Z",
+              "WhenOpened": "2024-10-30T12:25:50.703Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ClienteRequest.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\DTO\\Request\\ClienteRequest.cs",
-              "RelativeDocumentMoniker": "..\\TAQUI.Model\\DTO\\Request\\ClienteRequest.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\DTO\\Request\\ClienteRequest.cs",
-              "RelativeToolTip": "..\\TAQUI.Model\\DTO\\Request\\ClienteRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.API\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.API\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwEMAAABfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:21:22.811Z",
+              "WhenOpened": "2024-10-30T12:13:18.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.API\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.API\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:13:16.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "AddressResponse.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\DTO\\Response\\AddressResponse.cs",
-              "RelativeDocumentMoniker": "..\\TAQUI.Model\\DTO\\Response\\AddressResponse.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\DTO\\Response\\AddressResponse.cs",
-              "RelativeToolTip": "..\\TAQUI.Model\\DTO\\Response\\AddressResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\Cliente.cs",
+              "RelativeDocumentMoniker": "..\\TAQUI.Model\\Cliente.cs",
+              "ToolTip": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\Cliente.cs",
+              "RelativeToolTip": "..\\TAQUI.Model\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:29:46.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Service\\ConvertMapping\\ClienteService.cs",
-              "RelativeDocumentMoniker": "..\\TAQUI.Service\\ConvertMapping\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Service\\ConvertMapping\\ClienteService.cs",
-              "RelativeToolTip": "..\\TAQUI.Service\\ConvertMapping\\ClienteService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T13:10:11.297Z",
+              "WhenOpened": "2024-10-30T11:39:42.368Z",
               "EditorCaption": ""
             }
           ]

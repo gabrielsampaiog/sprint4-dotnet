@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj": {}
+    "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj": {
+    "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj",
+        "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj",
         "projectName": "TAQUI.Database",
-        "projectPath": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj",
-        "packagesPath": "C:\\Users\\phgianini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Database\\obj\\",
+        "projectPath": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Database\\TAQUI.Database.csproj",
+        "packagesPath": "C:\\Softwares\\Nuget",
+        "outputPath": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Database\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\phgianini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "c:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj": {
-                "projectPath": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj"
+              "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj": {
+                "projectPath": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj"
               }
             }
           }
@@ -70,21 +75,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj": {
+    "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj",
+        "projectUniqueName": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj",
         "projectName": "TAQUI.Model",
-        "projectPath": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj",
-        "packagesPath": "C:\\Users\\phgianini\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phgianini\\Desktop\\SPRINT\\sprint4-dotnet\\TAQUI.Model\\obj\\",
+        "projectPath": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\TAQUI.Model.csproj",
+        "packagesPath": "C:\\Softwares\\Nuget",
+        "outputPath": "C:\\Users\\labsfiap\\Desktop\\New folder\\sprint4-dotnet\\TAQUI.Model\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\phgianini\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "c:\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,6 +101,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -140,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

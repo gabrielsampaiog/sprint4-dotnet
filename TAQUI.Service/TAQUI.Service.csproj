@@ -7,7 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="3.0.1" />
+    <PackageReference Include="Microsoft.ML.Recommender" Version="0.21.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\TAQUI.Model\TAQUI.Model.csproj" />
+    <ProjectReference Include="..\TAQUI.Repository\TAQUI.Repository.csproj" />
   </ItemGroup>
 
 </Project>

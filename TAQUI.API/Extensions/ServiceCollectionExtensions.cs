@@ -5,7 +5,7 @@ using TAQUI.API.Configuration;
 using TAQUI.Database;
 using TAQUI.Model;
 using TAQUI.Repository;
-using TAQUI.Service;
+using TAQUI.Service.CEP;
 
 
 namespace TAQUI.API.Extensions
@@ -28,6 +28,9 @@ namespace TAQUI.API.Extensions
         {
             service.AddScoped<ICEPService, CEPService>();
             service.AddScoped<IRepository<Cliente>, MongoDbRepository<Cliente>>();
+            service.AddScoped<IRepository<Produto>, MongoDbRepository<Produto>>();
+            service.AddScoped<IRepository<ClienteView>, MongoDbRepository<ClienteView>>();
+
 
             return service;
         }
