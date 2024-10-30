@@ -4,9 +4,9 @@ using TAQUI.Repository;
 using _2TDPM.Services.Recommendation;
 using TAQUI.Service.ClienteViewService;
 using MongoDB.Bson;
-using TAQUI.Service.ConvertMapping;
 using System.Net;
 using TAQUI.Model.DTO.Response;
+using TAQUI.Model.DTO.Request;
 
 namespace TAQUI.API.Controllers
 {
@@ -33,14 +33,13 @@ namespace TAQUI.API.Controllers
         /// 
         /// Esse endpoint salva uma nova view de produto no banco de dados.
         /// </remarks>
-        /// <response code="201">View criada</response>
-        // POST api/<ProdutoRecommendationController>
+        /// <response code="200">View criada</response>
         [HttpPost]
-        [ProducesResponseType((int)HttpStatusCode.Created)]
-        public async Task<IActionResult> PostClienteViewAsync([FromBody] ClienteView clienteView)
+        [ProducesResponseType((int)HttpStatusCode.OK)]
+        public async Task<IActionResult> PostClienteViewAsync([FromBody] ClienteViewRequest clienteViewRequest)
         {
-            _clienteViewService.AddClienteView(clienteView);
-            return Created();
+            _clienteViewService.AddClienteView(clienteViewRequest);
+            return Ok(clienteViewRequest);
         }
 
         /// <summary>
@@ -53,11 +52,11 @@ namespace TAQUI.API.Controllers
         /// 
         /// Esse endpoint retorna uma recomendação com base no id fornecido.
         /// </remarks>
-        /// <response code="200">Retorna o cliente</response>
+        /// <response code="200">Retorna a recomendação</response>
+        /// <response code="400">Bad Request</response>
         [HttpGet("{clienteId}")]
         [ProducesResponseType(typeof(ClienteResponse), (int)HttpStatusCode.OK)]
-        [ProducesResponseType((int)HttpStatusCode.InternalServerError)]
-        [ProducesResponseType(typeof(TAQUI.Model.ErrorResponse), (int)HttpStatusCode.NotFound)]
+        [ProducesResponseType(typeof(string),(int)HttpStatusCode.BadRequest)]
         public async Task<IActionResult> GetRecommendations(string clienteId)
         {
             if (!ObjectId.TryParse(clienteId, out ObjectId parsedUserId))
@@ -65,13 +64,15 @@ namespace TAQUI.API.Controllers
                 return BadRequest("Invalid cliente ID");
             }
 
-            _recommendationEngine.PrepareTrainModel((IEnumerable<ClienteView>)_clienteViewService.GetClienteViews());
+            var clienteViews = await _clienteViewService.GetClienteViews();
 
-            var products = _repositoryProduto.GetAll();
+            _recommendationEngine.PrepareTrainModel(clienteViews);
+
+            var products = await _repositoryProduto.GetAll();
 
             var recommendedProdutos = new List<Produto>();
 
-            foreach (var product in await products)
+            foreach (var product in products)
             {
                 float score = _recommendationEngine.Predict(parsedUserId, product.Id);
 
@@ -83,6 +84,7 @@ namespace TAQUI.API.Controllers
 
             return Ok(recommendedProdutos);
         }
+
     }
 }
 

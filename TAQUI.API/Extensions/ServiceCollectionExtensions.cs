@@ -6,12 +6,21 @@ using TAQUI.Database;
 using TAQUI.Model;
 using TAQUI.Repository;
 using TAQUI.Service.CEP;
+using TAQUI.Service.ClienteViewService;
 
 
 namespace TAQUI.API.Extensions
 {
     public static class ServiceCollectionExtensions
     {
+        public static IServiceCollection AddServices(this IServiceCollection service)
+        {
+            service.AddScoped<ICEPService, CEPService>();
+
+            service.AddScoped<IClienteViewService, ClienteViewService>();
+
+            return service;
+        }
 
         public static IServiceCollection AddDBContexts(this IServiceCollection service, AppConfiguration appConfiguration)
         {
@@ -26,7 +35,6 @@ namespace TAQUI.API.Extensions
 
         public static IServiceCollection AddRepositories(this IServiceCollection service)
         {
-            service.AddScoped<ICEPService, CEPService>();
             service.AddScoped<IRepository<Cliente>, MongoDbRepository<Cliente>>();
             service.AddScoped<IRepository<Produto>, MongoDbRepository<Produto>>();
             service.AddScoped<IRepository<ClienteView>, MongoDbRepository<ClienteView>>();
