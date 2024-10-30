@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 using Xunit;
-using TAQUI.Service;
 using TAQUI.Model.DTO.Response;
+using TAQUI.Service.CEP;
 
 namespace TAQUI.Tests
 {

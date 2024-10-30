@@ -14,3 +14,23 @@ C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\
 C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\refint\TAQUI.Service.dll
 C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.pdb
 C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\ref\TAQUI.Service.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Service.deps.json
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Service.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Service.pdb
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Model.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Model.pdb
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.sourcelink.json
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Se.9B56D15C.Up2Date
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\refint\TAQUI.Service.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\TAQUI.Service.pdb
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\obj\Debug\net8.0\ref\TAQUI.Service.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Database.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Repository.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Repository.pdb
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Database.pdb

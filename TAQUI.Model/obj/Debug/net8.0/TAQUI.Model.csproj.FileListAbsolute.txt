@@ -11,3 +11,16 @@ C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TA
 C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\refint\TAQUI.Model.dll
 C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.pdb
 C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\ref\TAQUI.Model.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\bin\Debug\net8.0\TAQUI.Model.deps.json
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\bin\Debug\net8.0\TAQUI.Model.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\bin\Debug\net8.0\TAQUI.Model.pdb
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.csproj.AssemblyReference.cache
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.AssemblyInfoInputs.cache
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.AssemblyInfo.cs
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.sourcelink.json
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\refint\TAQUI.Model.dll
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\TAQUI.Model.pdb
+C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Model\obj\Debug\net8.0\ref\TAQUI.Model.dll

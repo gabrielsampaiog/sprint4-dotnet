@@ -1,6 +1,7 @@
 ﻿using TAQUI.Model;
 using TAQUI.Model.DTO.Request;
 using TAQUI.Model.DTO.Response;
+using TAQUI.Service.CEP;
 
 namespace TAQUI.Service.ConvertMapping
 {
