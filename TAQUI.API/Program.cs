@@ -1,6 +1,8 @@
+using _2TDPM.Services.Recommendation;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using TAQUI.API.Configuration;
 using TAQUI.API.Extensions;
+using TAQUI.Service.ClienteViewService;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,11 +20,13 @@ builder.Services.Configure<AppConfiguration>(configuration);
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-
+builder.Services.AddServices();
 builder.Services.AddDBContexts(appConfiguration);
 builder.Services.AddSwagger(appConfiguration);
 builder.Services.AddRepositories();
 builder.Services.AddHealthChecks(appConfiguration);
+builder.Services.AddSingleton<RecommendationEngine>();
+
 
 
 var app = builder.Build();

@@ -34,3 +34,7 @@ C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8
 C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Repository.dll
 C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Repository.pdb
 C:\Users\labsfiap\Desktop\New folder\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Database.pdb
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Database.dll
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Repository.dll
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Repository.pdb
+C:\Users\phgianini\Desktop\SPRINT\sprint4-dotnet\TAQUI.Service\bin\Debug\net8.0\TAQUI.Database.pdb

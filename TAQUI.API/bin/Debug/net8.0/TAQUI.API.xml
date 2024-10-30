@@ -99,12 +99,32 @@
             Controlador responsável por gerenciar recomendação de produtos.
             </summary>
         </member>
-        <member name="M:TAQUI.API.Controllers.ProdutoRecommendationController.PostClienteViewAsync(TAQUI.Model.ClienteView)">
+        <member name="M:TAQUI.API.Controllers.ProdutoRecommendationController.PostClienteViewAsync(TAQUI.Model.DTO.Request.ClienteViewRequest)">
             <summary>
-            Cadastro de view em um determinado produto
+            Cria uma nova view de produto.
             </summary>
-            <param name="clienteView"></param>
-            <returns></returns>
+            <remarks>
+            Exemplo de solicitação:
+            
+                POST /viewcliente
+            
+            Esse endpoint salva uma nova view de produto no banco de dados.
+            </remarks>
+            <response code="200">View criada</response>
+        </member>
+        <member name="M:TAQUI.API.Controllers.ProdutoRecommendationController.GetRecommendations(System.String)">
+            <summary>
+            Retorna uma recomendação com base no id fornecido.
+            </summary>
+            <remarks>
+            Exemplo de solicitação:
+            
+                GET /clienteId
+            
+            Esse endpoint retorna uma recomendação com base no id fornecido.
+            </remarks>
+            <response code="200">Retorna a recomendação</response>
+            <response code="400">Bad Request</response>
         </member>
         <member name="T:TAQUI.API.Controllers.ProdutosController">
             <summary>
@@ -128,7 +148,6 @@
             Esse endpoint salva os dados do produto no banco de dados.
             </remarks>
             <response code="200">Produto criado</response>
-            <response code="400">Bad Request</response>
             <response code="500">Erro de servidor</response>
         </member>
     </members>
