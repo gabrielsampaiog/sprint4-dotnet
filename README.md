@@ -2,6 +2,17 @@
 
 Esta é uma API desenvolvida em .NET que gerencia o cadastro de clientes utilizando o MongoDB e inclui integração com a API pública ViaCEP.
 
+### Configuração MongoDB
+Abrir o cmd e rodar os seguintes comandos: <br>
+setx MONGODB_CONNECTION_STRING "string de conexao do mongodb" <br>
+setx MONGODB_DATABASE "nome do seu banco"
+<br>ou<br>
+Alterar a string de conexão dentro do arquivo appsettings.json (arquivo localizado dentro do projeto FaculdadeAPI) na linha 15, substituir pela string fornecida pelo MongoDB, alterar o nome da database para o banco criado em seu cluster.
+
+### Instruções para execução
+
+Configurar o banco conforme o tutorial acima e clicar no botão de run.
+
 ## Testes
 
 ### Teste de Conexão e Integração com a API Pública ViaCEP
