@@ -2,6 +2,18 @@
 
 Esta é uma API desenvolvida em .NET que gerencia o cadastro de clientes utilizando o MongoDB e inclui integração com a API pública ViaCEP.
 
+#Integrantes 
+
+🔹Gabriel Sampaio IOT, C# RM 552342 Linkedin Github
+
+🔹Gabriel Neves Mobile, IOT RM 552244 Linkedin Github
+
+🔹Livia Freitas Java, QA, IOT RM 99892 Linkedin Github
+
+🔹Rafael Mendonça Database, IOT RM 552422 Linkedin Github
+
+🔹Renato Romeu DevOps, Mobile, QA, IOT RM 551325 Linkedin Github
+
 ### Configuração MongoDB
 Abrir o cmd e rodar os seguintes comandos: <br>
 setx MONGODB_CONNECTION_STRING "string de conexao do mongodb" <br>
@@ -48,6 +60,7 @@ O código do controlador `ClientesController` apresenta várias boas práticas d
 
 ### 8. Validação de Entrada
 - A validação do ID nos métodos, utilizando `ObjectId.TryParse`, garante que a entrada esteja correta antes de prosseguir com a lógica, evitando possíveis erros de execução.
+
 
 ## Implementação de Machine Learning
 - A aplicação inclui um algoritmo de machine learning que recomenda produtos com base nas visualizações do cliente, aprimorando a experiência do usuário e aumentando a relevância das sugestões de produtos.
