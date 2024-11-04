@@ -20,18 +20,23 @@ setx MONGODB_DATABASE "nome do seu banco"
 
 ```json
 {
-    "Logging": {
-        "LogLevel": {
-            "Default": "Information",
-            "Microsoft.AspNetCore": "Warning"
-        }
-    },
-    "AllowedHosts": "*",
-    "ConnectionStrings": {
-        "OracleFIAP": "Data Source=oracle.fiap.com.br:1521/orcl;User ID=rm552342;Password=010605;"
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
     }
+  },
+  "Swagger": {
+    "Title": "TAQUI API",
+    "Description": "API para cadastrar clientes",
+    "Email": "rm552342@fiap.com.br",
+    "Name": "Grupo TAQUI"
+  },
+  "ClienteMongoDb": {
+    "Connection": "",
+    "Database": ""
+  }
 }
-
 ```
 ---
 
