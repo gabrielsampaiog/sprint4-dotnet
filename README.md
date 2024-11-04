@@ -52,6 +52,3 @@ O código do controlador `ClientesController` apresenta várias boas práticas d
 ## Implementação de Machine Learning
 - A aplicação inclui um algoritmo de machine learning que recomenda produtos com base nas visualizações do cliente, aprimorando a experiência do usuário e aumentando a relevância das sugestões de produtos.
 
-
-## Licença
-- Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
