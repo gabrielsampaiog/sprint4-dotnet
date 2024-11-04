@@ -136,13 +136,13 @@ Aqui você pode listar as entregas principais realizadas ao longo do projeto, de
 
 | **Nome da Disciplina**                                       | **Data**       | **Status**        | **✔️** |
 | ------------------------------------------------------------ | -------------- | ----------------- | ------ |
-| Advanced Business Development with .NET                       | 16/09/2024     | Concluído         | ✅     |
-| Compliance, Quality Assurance e Tests                        | 16/09/2024     | Em andamento      | 🔄     |
-| DevOps Tools e Cloud Computing                               | 16/09/2024      | Não iniciado      | ❌     |
-| Disruptive Architectures - IoT, IOB e Generated AI           | 16/09/2024      | Não iniciado      | ❌     |
-| Java Advanced                                               | 16/09/2024      | Em andamento      | 🔄     |
-| Mastering Relational and Non-Relational Database             | 16/09/2024      | Concluído         | ✅     |
-| Mobile Application Development                               | 16/09/2024      | Em andamento      | 🔄     |
+| Advanced Business Development with .NET                       | 04/11/2024     | Concluído         | ✅     |
+| Compliance, Quality Assurance e Tests                        | 04/11/2024     | Em andamento      | 🔄     |
+| DevOps Tools e Cloud Computing                               | 04/11/2024      | Não iniciado      | ❌     |
+| Disruptive Architectures - IoT, IOB e Generated AI           | 04/11/2024      | Não iniciado      | ❌     |
+| Java Advanced                                               | 04/11/2024      | Em andamento      | 🔄     |
+| Mastering Relational and Non-Relational Database             | 04/11/2024      | Concluído         | ✅     |
+| Mobile Application Development                               | 04/11/2024      | Em andamento      | 🔄     |
 
 ---
 
