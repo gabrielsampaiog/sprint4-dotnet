@@ -13,7 +13,7 @@ THIAGO KELLER
 Entrega: 
 Integração com uma API publica e machine learning.
 
-Instruções de uso: Trocar usuário e senha no arquivo appsettings.json ou abrir o cmd e rodar os seguintes comandos: <br>
+Instruções de uso: Trocar Connection e Database no arquivo appsettings.json ou abrir o cmd e rodar os seguintes comandos: <br>
 setx MONGODB_CONNECTION_STRING "string de conexao do mongodb" <br>
 setx MONGODB_DATABASE "nome do seu banco"
 
