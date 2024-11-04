@@ -2,7 +2,7 @@
 
 Esta é uma API desenvolvida em .NET que gerencia o cadastro de clientes utilizando o MongoDB e inclui integração com a API pública ViaCEP.
 
-#Integrantes 
+# INTEGRANTES
 
 🔹Gabriel Sampaio IOT, C# RM 552342 Linkedin Github
 
