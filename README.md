@@ -11,14 +11,12 @@ Professor:
 THIAGO KELLER
 
 Entrega: 
-Desenvolver uma API utilizando ASP.NET Core Web API, aplicando princípios de arquitetura de software, design patterns, técnicas de documentação, testes e integração com banco de dados.
+Integração com uma API publica e machine learning.
 
-Explicação da arquitetura:
-Estamos adotando uma arquitetura de microservices para criar um sistema mais modular e escalável, onde cada serviço é responsável por uma funcionalidade específica e opera de forma independente. Isso nos permite escalar e atualizar componentes de maneira isolada, garantindo maior flexibilidade e eficiência tanto no desenvolvimento quanto na manutenção. A segmentação em microserviços também aumenta a resiliência do sistema, pois a falha de um serviço não compromete o funcionamento global. Além disso, facilita a incorporação de novas tecnologias e práticas à medida que as necessidades evoluem. Considerando o escopo do projeto, o TAQUI visa expandir para além do módulo de celulares, algo que seria inviável em uma arquitetura monolítica, devido à complexidade crescente e à magnificação do código com a expansão.
-
-Design patterns utilizados Error Handling, DTOs (Data transfer Object), Service Layer e Repository Pattern
-
-Instruções de uso: Trocar usuário e senha no arquivo appsettings.json e rodar o comanto Update-database no terminal dentro do projeto.
+Instruções de uso: Trocar usuário e senha no arquivo appsettings.json ou abrir o cmd e rodar os seguintes comandos: <br>
+setx MONGODB_CONNECTION_STRING "string de conexao do mongodb" <br>
+setx MONGODB_DATABASE "nome do seu banco"
+<br>ou<br>
 
 ```json
 {
