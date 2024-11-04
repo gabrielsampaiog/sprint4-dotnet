@@ -148,6 +148,6 @@ Aqui estão as orientações para uso correto do projeto:
 
 1. Clone do repositório oficial:
    ```bash
-   git clone [https://github.com/RenatoRussano/TAQUISPRINT03.git](https://github.com/gabrielsampaiog/sprint4-dotnet)
+   git clone https://github.com/gabrielsampaiog/sprint4-dotnet
 
 Orientações gerais do produto final serão lançadas em breve.
